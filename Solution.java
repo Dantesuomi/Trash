@@ -26,7 +26,7 @@ public class Solution {
             } else if (i % 5 == 0) {
                 System.out.println("Buzz");
             } else {
-                System.out.println(answer[i])
+                System.out.println(answer[i]);
         }
         return answer;
     }
